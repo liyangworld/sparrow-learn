@@ -10,6 +10,7 @@ yarn-error.log*
 
 # Node
 node_modules/
+.eslintcache
 
 # Build
 dist
